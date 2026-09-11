@@ -1,0 +1,29 @@
+# Credenciales y entornos
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Archivos operativos: nunca publicar datos fiscales ni de clientes
+resultados_cfdi_pdf/
+*.xlsx
+*.xls
+*.csv
+*.pdf
+*.xml
+*.sqlite*
+*.db
+*.log
+*.png
+*.jpg
+*.jpeg
+
+# Editor y sistema
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
