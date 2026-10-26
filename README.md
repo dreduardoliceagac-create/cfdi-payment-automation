@@ -2,7 +2,7 @@
 
 Automatización en Python que cruza recibos de pago, cuentas de clientes y facturas PDF de un ERP web para identificar el método de pago y registrar cada decisión. Combina reglas de negocio, calidad de datos, automatización de navegador y trazabilidad en Excel y SQLite.
 
-**Proyecto de portafolio orientado a análisis de datos y mejora de procesos.** Surgió de un proceso operativo real y se desarrolló con asistencia de IA. La aportación del responsable del proyecto incluyó identificar el problema, traducirlo a reglas, supervisar pruebas, detectar excepciones y verificar los resultados.
+**Proyecto de portafolio orientado a análisis de datos y mejora de procesos.** Surgió de un proceso operativo real y mi aportación en el proyecto incluyó identificar el problema, traducirlo a reglas, supervisar pruebas, detectar excepciones y verificar los resultados.
 
 Esta copia contiene datos de prueba ficticios. No incluye credenciales, archivos fiscales, capturas del sistema, bases de datos de clientes ni la dirección del ERP operativo. Los selectores corresponden a una integración específica con ASP.NET: no es un conector universal para cualquier ERP.
 
@@ -128,4 +128,4 @@ Los resultados se generan localmente en `resultados_cfdi_pdf/`: Excel, PDFs, log
 
 ## Autoría
 
-Eduardo Liceaga Calderón — análisis del proceso, definición de reglas, supervisión operativa y validación de resultados; desarrollo e iteración asistidos por IA. La documentación distingue la evidencia del caso real de las pruebas públicas reproducibles.
+Eduardo Liceaga Calderón — análisis del proceso, definición de reglas, supervisión operativa y validación de resultados; desarrollo e iteración. La documentación distingue la evidencia del caso real de las pruebas públicas reproducibles.
